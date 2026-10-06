@@ -1,0 +1,7 @@
+.env
+data/generated/
+*.parquet
+_pycache_/
+.venv/
+.vscode/
+.idea/
